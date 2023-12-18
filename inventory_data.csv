@@ -1,0 +1,77 @@
+code,name,company,category,price,information,quantity
+TV-SM0001,Samsung CUE70,Samsung,Television,27990,"43"" Ultra 4k smart LED TV",3
+TV-SM0002,Samsung QN700B,Samsung,Television,307490,"65"" Neo QLED, 8K Smart TV",5
+TV-SM0003,Samsung AUE60,Samsung,Television,42990,"55"" Crystal 4K Ultra HD Smart TV",5
+TV-OP0001,OnePlus Y1S Pro,OnePlus,Television,27490,"4K Ultra HD, Smarter connectivity, 24W Dolby Audio",4
+TV-OP0002,OnePlus 43 Y1,OnePlus,Television,12990,"DCI-P3 93% Colour Gamut, 64-bit powerful processor, OxygenPlay",8
+TV-OP0003,OnePlus 55Q1 Pro,OnePlus,Television,84990,"QLED 4K display, gamma color magic, Dolby vision and Dolby atmos, 51W 2.1CH Stereo system",5
+TV-SO0001,Sony Bravia KD-55X74K,Sony,Television,57990,"55"" 4K Ultra HD, Smart LED Google TV, 24W Dolby Audio",7
+TV-SO0002,Sony Bravia KD-65X74K,Sony,Television,139990,"65"" 4K Ultra HD, Smart LED Google TV, 20W Dolby Audio",8
+TV-SO0003,Sony Bravia KD-32W820K,Sony,Television,24990,"32"" HD Ready Smart Google TV with Alexa Compatibilty",4
+TV-RE0001,Redmi L65M6-RA,Redmi,Television,56990,"65"" 4K Ultra HD Smart Smart TV, Android TV - 10, 30W Dolby Atmos",1
+TV-RE0002,Redmi L43R8-FVIN,Redmi,Television,21990,"43"" 4K Ultra HD Smart LED FireTV, 24W DTS Virtual Sound",8
+TV-RE0003,Redmi L55M6-RA,Redmi,Television,32990,"55"" 4K Ultra HD, Android Smart LED TV, 178 degree viewing angle",4
+TV-ON0001,Onida 55UIF1,Onida,Television,32990,"55"" 4K Ultra HD, Smart LED Fire TV, Mira cast display mirroring, 2 GHz Multicore processor",9
+TV-ON0002,Onida 50UIF,Onida,Television,27990,"50"" 4K Ultra HD, Smart LED Fire TV, Mira cast display mirroring, 2GHz Multicore processor",0
+TV-ON0003,Onida F1F3,Onida,Television,19990,"43"" Full HD, Smart LED Fire TV, Amlogic 11th gen Picture Engine, 2 GHz Multicore processor",4
+RF-SM0001,Samsung Double Door Refrigerator,Samsung,Refrigerator,22990,"236L Digital Inverter Technology RT28C3032GS, Gray Silver",6
+RF-SM0002,Samsung Twin Cooling Plus,Samsung,Refrigerator,35490,"301L Double Door Refrigerator RT34C4523B1, Matt Black",12
+RF-SM0003,Samsung French Door BESPOKE,Samsung,Refrigerator,343300,"936L 4-Door Flex Refrigerator RF90A92W3AP, Glam White",7
+RF-LG0001,LG InstaView Door-in-Door,LG,Refrigerator,175990,"Knock Twice, See Inside, 635 Ltr , Side-by-Side Refrigerator with Smart Inverter Compressor, DoorCooling+, Brushed Steel Finish",9
+RF-LG0002,LG Convertible Side-by-Side ,LG,Refrigerator,110700,"650 Ltr, Refrigerator with Smart Inverter Compressor, Hygiene Fresh+, DoorCooling+, Smart Diagnosis, Matte Black Finish",10
+RF-LG0003,LG Double Door Refrigerator,LG,Refrigerator,25490,"242 Ltr, 3 Star, Smart Inverter Compressor, DoorCooling+, Smart Diagnosis, Shiny Steel Finish, Frost-Free ",17
+RF-PN0001,Panasonic Side by Side Refrigerator,Panasonic,Refrigerator,74990,"592 L Wifi Inverter Frost-Free (NR-BS62GKX1, Black, Premium Glass Finish)",1
+RF-PN0002,Panasonic Econavi,Panasonic,Refrigerator,87990,"551L 6-Stage Inverter Frost-Free Multi-Door Refrigerator (NR-CY550GKXZ, Black Glass, Powered by Artificial Intelligence)",12
+RF-PN0003,Panasonic Prime Refrigerator,Panasonic,Refrigerator,67320,450L 2 Star  Convertible 6-Stage Smart Inverter Frost-Free Double Door Bottom Mount Refrigerator (NR-BK465BQKN) Diamond Black,9
+RF-HA0001,Haier Single Door Refrigerator,Haier,Refrigerator,10490,"165 L 1 Star Direct Cool (2023 Model, HED-171RS-P, Red Steel)",3
+RF-HA0002,Haier Double Door Refrigerator,Haier,Refrigerator,34990,"325 L 3 Star Frost Free Inverter Double Door Bottom Mount Refrigerator Appliance (2023 Model, HEB-333DS-P, Dazzle Steel, Convertible)",4
+RF-HA0003,Haier  Side by Side Refrigerator,Haier,Refrigerator,59990,"630L Frost Free Inverter Refrigerator (HES-690SS-P, Shiny Steel, Convertible)",7
+RF-WP0001,Whirlpool Single Door Refrigerator ,Whirlpool,Refrigerator,11940,"184 L 2 Star Direct-Cool (205 WDE CLS 2S SAPPHIRE BLUE-Z, Blue,2023 Model)",8
+RF-WP0002,Whirlpool Triple Door Refrigerator,Whirlpool,Refrigerator,25690,"240 L Frost Free (FP 263D Protton Roy, Alpha Steel)",3
+RF-WP0003,Whirlpool Double Door Refrigerator ,Whirlpool,Refrigerator,21610,"265 L 2 Star Frost Free (NEO DF278 PRM ARCTIC STEEL -N, Grey)",5
+LT-SM0001,Samsung Galaxy Book3,Samsung,Laptop,84790,"13th Gen, core i7 1355U - (16 GB/512 GB SSD/Windows 11 Home) Galaxy Book3 Thin and Light Laptop  (15.6 Inch, Silver, 1.58 Kg)",6
+LT-SM0002,Samsung Galaxy Book2,Samsung,Laptop,59990," (NP750) Intel 12th Gen core i5 39.6cm (15.6"") FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print",1
+LT-SM0003,Samsung Galaxy Book Ion Laptop,Samsung,Laptop,142620,"15.6 inches QLED Display and Intel Core i7 Processor with Long Battery Life and Windows 10 Operating System, 8GB",8
+LT-AS0001,ASUS TUF Gaming F15,Asus,Laptop,69990,"15.6""(39.62 cms) FHD 144Hz, Intel Core i7-11800H 11th Gen, 4GB NVIDIA GeForce RTX 3050 Ti, Gaming Laptop (16GB/ 512GB SSD/ Windows 11/ 90WHrs Battery/ Black/ 2.30 Kg)",2
+LT-AS0002,ASUS Vivobook 16X(2022),Asus,Laptop,59990,"16-inch (40.64 cms) WUXGA, AMD Ryzen 5 5600H, Thin and Light Laptop (8GB/ 512GB SSD/ Integrated Graphics/ Win 11/ Office 2021/ Quiet Blue/ 1.8 kg)",9
+LT-AS0003,ASUS Vivobook 15,Asus,Laptop,39990,"Intel Core i3-1220P 12th Gen, 15.6"" (39.62 cm) FHD, Thin and Laptop (8GB/ 512GB SSD/ Integrated Graphics/ Windows 11/ Office2021/ Alexa Built-in/ FP Sensor/ Blue/ 1.7 kg)",6
+LT-LN0001,Lenovo IdeaPad Flex 5,Lenovo,Laptop,65990,"Intel Core i5-1235U 14""(35.56cm) WUXGA IPS 2-in-1 Laptop (16GB/ 512GB SSD/ Win 11/ Office 2021/ Backlit KB/ Fingerprint/ FHD Camera/ Alexa)",8
+LT-LN0002,Lenovo IdeaPad Slim 3,Lenovo,Laptop,32490,"Intel Core i3-1115G4 11th Gen 15.6"" (39.62cm) FHD Laptop (8GB/ 256GB SSD/ Win 11/ Office 2021/ 3 Month Game Pass/ Arctic Grey/ 1.65Kg)",3
+LT-LN0003,Lenovo V15,Lenovo,Laptop,23990,"Intel Celeron N4500 15.6"" (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/ 256GB SSD/ Windows 11 Home/ Black)",2
+LT-AP0001,Apple MacBook Air 13-inch,Apple,Laptop,115999,"M2 chip, 8GB RAM & 256GB SSD, USB-C to MagSafe 3 Cable, 67W USB-C Power Adapter, Starlight Color, Z15Y000ZR",7
+LT-AP0002,Apple 2023 MacBook Pro ,Apple,Laptop,349900,"Laptop M2 Max chip with 12‑core CPU and 38‑core GPU: 33.74 cm (16.2-inch), 32GB Unified Memory, 1TB SSD Storage. Silver",3
+LT-AP0003,Apple MacBook Air Laptop M1 chip,Apple,Laptop,69900,"13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID.",7
+LT-HP0001,HP Laptop 15,HP,Laptop,37990,"12th Gen i3-1215U, 15.6-inch (39.6 cm), FHD, Anti-Glare, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Dual Speakers, (Win 11, MSO 2021, Silver, 1.69 kg)",5
+LT-HP0002,HP Pavilion 14,HP,Laptop,66990,"12th Gen Intel Core i5-1235U, 14-inch (35.6 cm), FHD, 16GB
+ DDR4, 512GB SSD, Intel Iris Xe graphics, FPR, Backlit KB",7
+LT-HP0003,HP Spectre 16 x360 ,HP,Laptop,175490,12th Gen Intel Evo Core i7 16 inch(40.6 cm) UHD+OLED Multitouch 400 nits Gorilla Glass 2-in-1 Laptop (16GB RAM/1TB SSD/A370M Graphics 4GB/Win 11/FPR/B&O/Pen/2.01 Kg),4
+MP-AP0001,Apple iPhone 13 Pro,Apple,Mobile Phone,147899,"Display 6.10-inch (1170x2523), Processor Apple A15 Bionic, Front Camera 12MP, Rear Camera 12MP + 12MP + 12MP, Storage 128GB, 256GB, 512GB, 1TB, Battery Capacity 3095mAh, OS iOS 15",8
+MP-AP0002,Apple iPhone 12 Pro Max,Apple,Mobile Phone,131799,"Display 6.70-inch (1284x2778), Processor Apple A14 Bionic, Front Camera 12MP, Rear Camera 12MP + 12MP + 12MP, Storage 128GB, OS iOS 14",3
+MP-AP0003,Apple iPhone 11 Pro Max,Apple,Mobile Phone,87990,"Display 6.50-inch (1242x2688), Processor Apple A13 Bionic, Front Camera 12MP, Rear Camera 12MP + 12MP + 12MP, RAM 4GB, Storage 64GB, Battery Capacity 3969mAh, OS iOS 13",7
+MP-SM0001,Samsung Z Fold 5 5G,Samsung,Mobile Phone,164990,"Display (Primary) 7.60-inch (2176x1812), Processor Snapdragon 8 Gen 2, Front Camera 10MP + 4MP, Rear Camera 50MP + 12MP + 10MP, RAM 12GB, Storage 256GB, 512GB, 1TB, Battery Capacity 4400mAh, OS Android 13",3
+MP-SM0001,Samsun Galaxy S23 Ultra 5G,Samsung,Mobile Phone,121999,"Display 6.80-inch, Processor Snapdragon 8 Gen 2, Front Camera 12MP, Rear Camera 200MP + 12MP + 10MP, RAM 8GB 12GB, Storage 256GB, 512GB 1TB, Battery Capacity 5000mAh, OS Android 13",8
+MP-SM0003,Samsung Galaxy Z Flip 5,Samsung,Mobile Phone,99999,"Display (Primary) 6.70-inch, Processor Snapdragon 8 Gen 2, Front Camera 10MP, Rear Camera 12MP + 12MP + 10MP, RAM 8GB, Storage 256GB 512GB, Battery Capacity 3700mAh, OS Android 13",4
+MP-XR0001,Redmi Note 12 Pro 5G,Xiaomi Redmi,Mobile Phone,21890,"Display 6.60-inch (1080x2400), Front Camera Unspecified, Rear Camera Unspecified, RAM 6GB, 8GB, 12GB, Storage 128GB, 256GB, Battery Capacity 4980mAh, OS Android 12",5
+MP-XR0002,Redmi Note 11T 5G                             ,Xiaomi Redmi,Mobile Phone,15999,"Display 6.60-inch (1080x2400), Processor MediaTek Dimensity 810, Front Camera 16MP, Rear Camera 50MP + 8MP, RAM 6GB 8GB, Storage 64GB 128GB, Battery Capacity 5000mAh, OS Android 11,",4
+MP-XR0003,Redmi 10A,Xiaomi Redmi,Mobile Phone,11999,"Display 6.53-inch (720x1600), Processor MediaTek Helio G25, Front Camera 5MP, Rear Camera 13MP, RAM 3GB 4GB, Storage 32GB 64GB, Battery Capacity 5000mAh, OS Android",7
+MP-OP0001,OnePlus 11R,OnePlus,Mobile Phone,39999,"Display 6.70-inch (1080x2412), Front Camera 16MP, Rear Camera 50MP + 8MP + 2MP, RAM 8GB 16GB, Storage 128GB 256GB, Battery Capacity 5000mAh, OS Android 13",3
+MP-OP0002,OnePlus Nord CE 3 5G,OnePlus,Mobile Phone,28999,"Display 6.70-inch (1080x2412), Processor Snapdragon 782G, Front Camera 16MP, Rear Camera 50MP + 8MP + 2MP, RAM 8GB, 12GB, Storage 128GB, 256GB, Battery Capacity 5000mAh, OS Android 13",8
+MP-OP0003,OnePlus Nord 2T 5G,OnePlus,Mobile Phone,28498,"Display 6.43-inch (1080x2400), Processor MediaTek Dimensity 1300, Front Camera 32MP, Rear Camera 50MP + 8MP + 2MP, RAM 8GB 12GB, Storage 128GB 256GB, Battery Capacity 4500mAh, OS Android 12",3
+MP-RM0001,Realme Narzo 60x 5G,Realme,Mobile Phone,12999,"Display 6.72-inch (2400x1080), Processor MediaTek Dimensity 6100+, Front Camera 8MP, Rear Camera 64MP + 2MP, RAM 4GB 6GB, Storage 128GB, Battery Capacity 5000mAh, OS Android 13",2
+MP-RM0002,Realme 11X 5G,Realme,Mobile Phone,15999,"Display 6.72-inch (1080x2400), Processor MediaTek Dimensity 6100+, Front Camera 8MP, Rear Camera 64MP + 2MP, RAM 6GB, 8GB, Storage 128GB, Battery Capacity 5000mAh, OS Android 13",3
+MP-RM0003,Realme GT 2,Realme,Mobile Phone,24999,"Display 6.62-inch (1080x2400), Processor Qualcomm Snapdragon 888, Front Camera 16MP, Rear Camera 50MP + 8MP + 2MP, RAM 8GB 12GB, Storage 128GB 256GB, Battery Capacity 5000mAh, OS Android 12",10
+WM-SM0001,Samsung Top Loading Washing Machine,Samsung,Washing Machine,15490,"7 kg Fully-Automatic (WA70A4002GS/TL, Imperial Silver, Diamond drum)",6
+WM-SM0002,Samsung 5 Star Washing Machine,Samsung,Washing Machine,31990,"7 Kg AI Control & Wi-Fi, Fully-Automatic Front Loading (WW70T502NAN1TL, Inox, Digital Inverter)",4
+WM-SM0003,Samsung Eco Bubble Washing Machine,Samsung,Washing Machine,23790,"9 kg, 5 star, Wi-Fi, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Loading (WA90BG4542BDTL, Versailles Gray)",8
+WM-LG0001,LG 7 Kg 5 Star Washing Machine,LG,Washing Machine,27990,"Inverter Touch panel Fully-Automatic Front Load with In-Built Heater (FHM1207SDM, Middle Black, Steam for Hygiene Wash)",9
+WM-LG0002,LG 6.5 Kg 5 Star Washing Machine,LG,Washing Machine,24990,"Inverter Direct Drive Fully Automatic Front Load (FHM1065SDW, Steam Wash, In-Built Heater, Touch Panel, White)",3
+WM-LG0003,LG 9 Kg 5 Star Washing Machine,LG,Washing Machine,39990,"Wi-Fi Inverter AI Direct Drive Fully-Automatic Front Load with In-Built Heater (FHP1209Z5M, 6 Motion DD & Steam for Hygiene Wash)",1
+WM-WP0001,Whirlpool 7.5 Kg 5 Star Washing Machine,Whirlpool,Washing Machine,17990,"Stainwash Pro Fully Automatic Top Load (Stainwash Pro H 7.5, Kg 5 Star with In-Built Heater), Grey",7
+WM-WP0002,Whirlpool 7 Kg 5 Star Washing Machine,Whirlpool,Washing Machine,14890,"Royal Fully-Automatic Top Loading (WHITEMAGIC ROYAL 7.0 GENX, Grey, Hard Water Wash, ZPF Technology)",5
+WM-WP0003,Whirlpool 9 Kg 5 Star Washing Machine,Whirlpool,Washing Machine,22990,Bloomwash Pro Fully-Automatic Top Loading - Built In Heater (360 BW PRO H 9.0 MIDNIGHT GREY 10YMW),9
+WM-PN0001,Panasonic 6 Kg 5 Star Washing Machine,Panasonic,Washing Machine,13490,"Fully-Automatic Top Load (NA-F60LF1HRB, Grey, Durable Metal Body, 8 Wash Program, Aquabeat wash technology)",4
+WM-PN0002,Panasonic 6.7 Kg Washing Machine,Panasonic,Washing Machine,16990,"Built-in Heater Fully-Automatic Top Loading (NA-F67BH8MRB,Middle free silver,Active Foam System) with Water Reuse)",5
+WM-PN0003,Panasonic 7.5 Kg Washing Machine,Panasonic,Washing Machine,25470,"Wifi Built-In Heater Fully-Automatic Top Loading Smart (NA-F75V10LRB, Silver, Compatible with Alexa)",3
+WM-BO0001,Bosch 8 Kg 5 Star Washing Machine,Bosch,Washing Machine,35990,"Fully-Automatic Front Loading (WAJ28262IN, Silver, AI active water plus, In-Built Heater)",9
+WM-BO0002,Bosch 7 Kg 5 Star Washing Machine,Bosch,Washing Machine,30990,"Fully-Automatic Front Loading (WAJ2416SIN, Silver, AI active water plus, In-Built Heater)",1
+WM-BO0003,Bosch 8 kg 5 Star Washing Machine,Bosch,Washing Machine,44990,"Fully-Automatic Front Loading (WGA244ASIN, Titanium, AI active water plus, In-Built Heater)",4
